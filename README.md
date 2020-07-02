@@ -1,6 +1,9 @@
 # Tree
 彩色动画树
 
+#### 效果示例
+https://blbj.github.io/tree.github.io/
+
 #### 使用方法
 ```Javascript
 <!DOCTYPE html>
