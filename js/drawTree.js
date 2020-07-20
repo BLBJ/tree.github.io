@@ -304,7 +304,7 @@ class DrawTree {
     constructor(el, opt) {
         this.$ele = el;
         let $window = $(window);
-        let [canvas_width, canvas_height] = [$window.width(), $window.height() - 30];
+        let [canvas_width, canvas_height] = [$window.width(), $window.height()];
         this.defaults = {
             width: canvas_width,
             height: canvas_height
